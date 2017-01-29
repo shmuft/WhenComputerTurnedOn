@@ -11,6 +11,6 @@ Install:<br/>
 Run:<br/>
 1. Build client<br/>
 2. Build server<br/>
-3. Run server<br/>
-4. Run client<br/>
-
+3. Copy client application and config.json to clients computers.
+3. Run server application on the server computer<br/>
+4. Run client application on clients computers<br/>
