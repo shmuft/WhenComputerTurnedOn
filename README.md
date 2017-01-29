@@ -1,16 +1,16 @@
 Hello!
 
-This is Client-Server application.
+This is Client-Server application.<br/>
 The main purpose of this application is to collect statistics when the computer was turned on.
 
-Install:
-1. Clone this repository
-2. Edit dbIpName.json
-3. Edit config.json
+Install:<br/>
+1. Clone this repository<br/>
+2. Edit dbIpName.json<br/>
+3. Edit config.json<br/>
 
-Run:
-1. Build client
-2. Build server
-3. Run server
-4. Run client
+Run:<br/>
+1. Build client<br/>
+2. Build server<br/>
+3. Run server<br/>
+4. Run client<br/>
 
